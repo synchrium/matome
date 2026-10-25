@@ -1,0 +1,7 @@
+textual>=8.0
+textual-image>=0.12
+httpx>=0.28
+selectolax>=1.0
+pillow>=11
+feedparser>=6.0
+tomli>=2.0; python_version < "3.11"
